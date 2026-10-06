@@ -7,11 +7,11 @@ const db = [
     ]},
     { k: ["shahadah", "chahada", "faith"], r: [
         "Ah, the Shahadah! It's the ultimate cosmic validation packet. It states: 'La ilaha illa Allah, Muhammadur Rasool Allah.' Translation: I bear witness that there is no god worthy of worship except God (Allah), and Muhammad is the final Messenger of God. It's Pillar #1 in \n Islam!",
-        "Look, think of the Shahadah as the main root access key to Islam. It's you clearing out your spiritual self of all false gods and saying: 'I bear witness there is no god worthy of worship except Allah, And Muhammad (SAW) is the final messenger of Allah.' You need the Shahadah to be a Muslim.",
+        "Look, think of the Shahadah as the main root access key to Islam. It's you clearing out your spiritual self of all false gods and saying: 'I bear witness there is no god worthy of worship except Allah, And Muhammad (SAW) is the final messenger of Allah.' You need to say the Shahadah and have it in your heart to be a Muslim.",
         "Let's break down the system specs: Shahadah is your verbal key to islam. It states: 'La ilaha illa Allah, Muhammadur Rasool Allah.'. "
     ]},
     { k: ["pillar", "pillars", "islam pillars"], r: [
-        "Islam's 5 core pillars. Basically, the structural architecture holding up your entire spiritual temple:\n1. Shahadah \n2. Salah (The 5x mandatory prayers)\n3. Zakat \n4. Sawm \n5. Hajj. Don't skip any columns!",
+        "Islam's 5 core pillars. Basically, the structural architecture holding up your entire spiritual inner:\n1. Shahadah \n2. Salah (The 5x mandatory prayers)\n3. Zakat \n4. Sawm \n5. Hajj. Don't skip any columns!",
         "You want the core framework? It's a 5-step checklist. You declare it, pray salah give away some hard-earned cash to charity, starve yourself intentionally for a month, and take a long desert trip. Keeps your spiritual server fully optimized."
     ]},
     { k: ["prayer", "salah", "salat", "pray"], r: [
