@@ -12,7 +12,7 @@ const db = [
     ]},
     { k: ["pillar", "pillars", "islam pillars"], r: [
         "Islam's 5 core pillars. Basically, the structural architecture holding up your entire spiritual inner:\n1. Shahadah \n2. Salah (The 5x mandatory prayers)\n3. Zakat \n4. Sawm \n5. Hajj. Don't skip any columns!",
-        "You want the core framework? It's a 5-step checklist. You declare it, pray salah give away some hard-earned cash to charity, starve yourself intentionally for a month, and take a long desert trip. Keeps your spiritual server fully optimized."
+        "You want the core framework? It's a 5-step checklist. You declare it, pray salah give away some hard-earned cash to charity, starve yourself intentionally for a month (Ramamdan + other occasions), and Hajj (Pillgrimage!). Keeps your spiritual inner fully optimized."
     ]},
     { k: ["prayer", "salah", "salat", "pray"], r: [
         "Salah! That's your mandatory 5-times-a-day firewall update. Think your life is stressful? Try stepping onto a prayer mat and logging off from any stress for ten minutes. Instant server restart.",
