@@ -59,7 +59,7 @@ It’s a reminder that not every project needs to be a giant SaaS platform. Some
 
 - HTML
 - CSS
-- JavaScript
+- JavaScript (Mostly ES6+) 
 
 That’s it. The classic trio. The stack of people who said, “I’m going to build something cool without reinventing the wheel.”
 
@@ -69,8 +69,8 @@ That’s it. The classic trio. The stack of people who said, “I’m going to b
 
 The repo contains the core front-end files used to run the chatbot:
 
-- `index.html` – the chat interface
-- `script.js` – the logic behind the conversation system
+- `index.html` – the chat interface with our goofy neon CSS to make it look alive.
+- `script.js` – the logic behind the conversation system to really make the `index.html` have its life!
 
 The experience is intentionally minimal and focused, because sometimes less code means more personality.
 
@@ -85,7 +85,7 @@ The experience is intentionally minimal and focused, because sometimes less code
 > Bot: Anxiety is like running a massive background script...
 
 > User: How do I debug a bug?  
-> Bot: A bug? Oh, you mean an undocumented feature.
+> Bot: A bug? Oh, you mean an undocumented feature...
 
 It’s equal parts spiritual reflection, coding advice, and emotional support for people who are overthinking absolutely everything.
 
@@ -104,5 +104,5 @@ git clone https://github.com/Shahadah-studs/ShahadahAI.git
  ShahadahAI is not something **serious** like an impressive thing! Just something here for fun and emulates what an AI is!
 > Want more updates? Make an issue!
 ---
-### Like the project? leave a star! ✨
+### `Like the project? leave a star! ✨`
 
