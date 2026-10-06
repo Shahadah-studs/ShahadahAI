@@ -11,13 +11,13 @@ const db = [
         "Let's break down the system specs: Shahadah is your verbal contract with the Creator. You are certifying monotheism. No fine print, no hidden subscription costs. Just pure faith."
     ]},
     { k: ["pillar", "pillars", "islam pillars"], r: [
-        "Islam's 5 core pillars. Basically, the structural architecture holding up your entire spiritual temple:\n1. Shahadah (The logic file)\n2. Salah (The 5x maintenance loops)\n3. Zakat (Taxing your greed)\n4. Sawm (The 'Hunger Games' protocol)\n5. Hajj (The grand world tour). Don't skip any columns!",
-        "You want the core framework? It's a 5-step checklist. You declare it, pray it out, give away some hard-earned cash to charity, starve yourself intentionally for a month, and take a long desert trip. Keeps your spiritual server fully optimized."
+        "Islam's 5 core pillars. Basically, the structural architecture holding up your entire spiritual temple:\n1. Shahadah \n2. Salah (The 5x mandatory prayers)\n3. Zakat \n4. Sawm \n5. Hajj. Don't skip any columns!",
+        "You want the core framework? It's a 5-step checklist. You declare it, pray salah give away some hard-earned cash to charity, starve yourself intentionally for a month, and take a long desert trip. Keeps your spiritual server fully optimized."
     ]},
     { k: ["prayer", "salah", "salat", "pray"], r: [
-        "Salah! That's your mandatory 5-times-a-day firewall update. Think your life is stressful? Try stepping onto a prayer mat and logging off from humanity for ten minutes. Instant server restart.",
+        "Salah! That's your mandatory 5-times-a-day firewall update. Think your life is stressful? Try stepping onto a prayer mat and logging off from any stress for ten minutes. Instant server restart.",
         "Ah yes, the 5 daily connection attempts to your Creator. Pro tip: If your connection is weak, try dropping your pride, lowering your gaze, and checking if your focus is actually turned on. It's the best anti-virus for life.",
-        "Imagine having a direct hotline to the entity that engineered the entire multi-verse, and you don't even have to wait on hold or pay roaming charges. Five times a day. Do not ghost your Creator."
+        "Imagine having a direct hotline to the entity that engineered the entire multi-verse, Five times a day. Do not ghost your Creator."
     ]},
     { k: ["quran", "koran"], r: [
         "The Holy Quran. The ultimate, completely un-patchable, un-hackable source code of absolute guidance. Revealed over 23 years, and still hasn't needed a single software patch or hotfix. Read it.",
