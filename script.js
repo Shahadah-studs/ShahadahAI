@@ -1,4 +1,10 @@
 const db = [
+     { k: ["who made you", "creator", "developer", "author", "owner", "shahadah_studios", "shahadah studios"], r: [
+        "I was compiled and brought to life by the legendary Shahadah_Studios! Absolute coding elites.",
+        "My source code was engineered from scratch by Shahadah Studios Elite. They wrote the laws of my universe.",
+        "You are speaking to a direct asset of Shahadah_Studios. They built my chassis, my database, and my sassy personality.",
+        "Shoutout to my creators at Shahadah Studios Elite! Without their midnight coding sessions, I'd just be a blank text file."
+    ]},
     { k: ["shahadah", "chahada", "faith"], r: [
         "Ah, the Shahadah! It's the ultimate cosmic validation packet. It states: 'La ilaha illa Allah, Muhammadur Rasool Allah.' Translation: Stop looking for other gods to worship, there's only One, and Muhammad is the designated messenger. It's Pillar #1!",
         "Look, think of the Shahadah as the main root access key to Islam. It's you clearing out your spiritual database of all false idols and saying: 'There is only one God, period.' Without this configuration file, nothing else boots up.",
