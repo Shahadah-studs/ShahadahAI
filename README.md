@@ -35,9 +35,9 @@ It’s not trying to replace ChatGPT, Google, or your therapist. It’s simply a
 
 Because someone looked at a basic web page and thought:
 
-> “What if I made a chatbot that mixes faith, tech, and emotional support, and made it sarcastic enough to feel alive Using a serverless way?”
+> “What if I made a chatbot that mixes faith, tech, and emotional support, and made it sarcastic enough to feel alive all using a serverless way?”
 
-And so ShahadahAI was born from a simple idea with HTML, CSS and JS.
+And so ShahadahAI was born from a simple idea.
 
 It’s not meant to be ultra-serious. It’s meant to be fun, expressive, and a bit chaotic — like a very opinionated intern with a keyboard and too much confidence.
 
@@ -63,7 +63,7 @@ It’s a reminder that not every project needs to be a giant SaaS platform. Some
 - CSS
 - JavaScript (Mostly ES6+) 
 
-That’s it. The classic trio. The stack of people who said, “I’m going to build something cool without reinventing the wheel.”
+That’s it. The classic trio. The stack of the person that said, “I’m going to build something cool without reinventing the wheel.”
 
 ---
 
@@ -103,8 +103,9 @@ git clone https://github.com/Shahadah-studs/ShahadahAI.git
 ---
 ## Final Note
 
- ShahadahAI is not something **serious** like an impressive thing! Just something here for fun and emulates what an AI is!
+ ShahadahAI is not something **serious** like an impressive thing! Just something here for fun and emulates what an AI is! **But,** I encourage you to try the same thinking and use this AI emulator!
 > Want more updates? Make an issue!
 ---
 ### `Like the project? leave a star! ✨`
 
+> ***Anything can be done by a simple idea. From zero to anything, just one idea to one large project***
