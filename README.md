@@ -101,8 +101,8 @@ git clone https://github.com/Shahadah-studs/ShahadahAI.git
 ---
 ## Final Note
 
-##### ShahadahAI is not something serious like an impressive thing! Just something here for fun and emulates what an AI is!
- #### Want more updates? Make an issue!
+ ShahadahAI is not something **serious** like an impressive thing! Just something here for fun and emulates what an AI is!
+> Want more updates? Make an issue!
 ---
 ### Like the project? leave a star! ✨
 
