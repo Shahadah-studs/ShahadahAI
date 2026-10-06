@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 - Sector Unresolved</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', system-ui, sans-serif; }
+        body { background: #05050a; display: flex; justify-content: center; align-items: center; height: 100vh; color: #e2e8f0; overflow: hidden; }
+        .box { width: 500px; padding: 40px; background: rgba(20, 20, 35, 0.7); backdrop-filter: blur(12px); border-radius: 24px; box-shadow: 0 0 30px rgba(255,0,128,.15), inset 0 0 15px rgba(0,255,204,.1); text-align: center; border: 1px solid rgba(255, 0, 128, 0.3); animation: glitch-border 2s infinite alternate; }
+        @keyframes glitch-border { from { border-color: rgba(255, 0, 128, 0.3); } to { border-color: rgba(0, 255, 204, 0.5); box-shadow: 0 0 30px rgba(0,255,204,.15); } }
+        .code-404 { font-size: 6rem; font-weight: 900; color: #ff0080; text-shadow: 0 0 15px #ff0080, 0 0 30px rgba(255,0,128,0.5); letter-spacing: 2px; line-height: 1; margin-bottom: 10px; animation: blink 1.5s infinite alternate; }
+        @keyframes blink { 0%, 95%, 100% { opacity: 1; } 96%, 98% { opacity: 0.3; } }
+        h1 { color: #00ffcc; text-shadow: 0 0 10px rgba(0,255,204,0.6); font-size: 1.5rem; letter-spacing: 1px; margin-bottom: 20px; }
+        p { color: #94a3b8; font-size: 0.95rem; line-height: 1.6; margin-bottom: 30px; }
+        .highlight { color: #ff0080; font-weight: bold; }
+        .btn-home { display: inline-block; background: transparent; color: #00ffcc; border: 2px solid #00ffcc; padding: 12px 30px; border-radius: 30px; cursor: pointer; font-weight: bold; text-decoration: none; letter-spacing: 1px; box-shadow: 0 0 10px rgba(0, 255, 204, 0.2); transition: all 0.2s ease; }
+        .btn-home:hover { background: #00ffcc; color: #05050a; box-shadow: 0 0 20px #00ffcc; transform: translateY(-2px); }
+        .footer { margin-top: 35px; font-size: 0.75rem; color: #475569; letter-spacing: 1px; font-weight: bold; text-transform: uppercase; }
+    </style>
+</head>
+<body>
+
+    <div class="box">
+        <div class="code-404">404</div>
+        <h1>// SECTOR NOT FOUND</h1>
+        <p>
+            An exception has occurred. The routing framework compiled an unhandled path. Either you mis-typed the parameter string, or this index link was terminated from the main network grid.
+        </p>
+        
+        <!-- Change index.html if your chat file is named differently -->
+        <a href="index.html" class="btn-home">RE-INITIALIZE CORE</a>
+        
+        <div class="footer">
+            📡 Secured by <span class="highlight">Shahadah Studios Elite</span>
+        </div>
+    </div>
+
+</body>
+</html>
