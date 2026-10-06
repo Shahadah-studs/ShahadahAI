@@ -1,6 +1,6 @@
 # ShahadahAI
 
-An "AI" chatbot with a dramatic personality, a niche sense of humor, and enough confidence to answer questions about faith, coding, life, and stress like it has a PhD in all of the above.
+An "AI" chatbot with a dramatic personality, a niche sense of humor, and enough confidence to answer questions about faith, coding, life, and stress like it has a *"PhD"* in all of the above.
 
 ShahadahAI is a lightweight browser-based chatbot built with plain HTML, CSS, and JavaScript. It doesn’t claim to be a cutting-edge AI model or a deep learning masterpiece. It’s much more honest than that: it’s a small, fun, rule-based project that responds to user input with some prewritten logic, a little sarcasm, and a lot of attitude.
 
