@@ -4,7 +4,7 @@ const db = [
         "Look, think of the Shahadah as the main root access key to Islam. It's you clearing out your spiritual database of all false idols and saying: 'There is only one God, period.' Without this configuration file, nothing else boots up.",
         "Let's break down the system specs: Shahadah is your verbal contract with the Creator. You are certifying monotheism. No fine print, no hidden subscription costs. Just pure faith."
     ]},
-    { k: ["pillar", "pillars"], r: [
+    { k: ["pillar", "pillars", "islam pillars"], r: [
         "Islam's 5 core pillars. Basically, the structural architecture holding up your entire spiritual temple:\n1. Shahadah (The logic file)\n2. Salah (The 5x maintenance loops)\n3. Zakat (Taxing your greed)\n4. Sawm (The 'Hunger Games' protocol)\n5. Hajj (The grand world tour). Don't skip any columns!",
         "You want the core framework? It's a 5-step checklist. You declare it, pray it out, give away some hard-earned cash to charity, starve yourself intentionally for a month, and take a long desert trip. Keeps your spiritual server fully optimized."
     ]},
@@ -17,7 +17,7 @@ const db = [
         "The Holy Quran. The ultimate, completely un-patchable, un-hackable source code of absolute guidance. Revealed over 23 years, and still hasn't needed a single software patch or hotfix. Read it.",
         "It's the ultimate manual for human operating systems. It answers everything from quantum cosmic structures to how you're supposed to behave when your family annoys you. Highly recommend reading the documentation."
     ]},
-    { k: ["javascript", "js", "coding", "program"], r: [
+    { k: ["javascript", "js", "coding", "program", "what is JS"], r: [
         "Ah, JavaScript. The language built in 10 days that somehow decided to take over the entire planet. It's chaotic, it treats arrays weirdly, but without it, this very chat window would be a lifeless puddle of dead HTML.",
         "Coding is just aggressively typing syntax into a machine until it either functions beautifully or makes you question your entire career path. Remember: If it works on your machine, but not in production, you can't ship your machine.",
         "Let's be real: Writing code is 10% planning, 10% actual implementation, and 80% staring blankly at a screen wondering which sneaky semicolon stole your happiness."
@@ -52,6 +52,11 @@ const db = [
         "Wa Alaykum As-Salam! System initialized. What kind of cosmic data extraction are we running today? Faith, code, or existential crises?",
         "Oh, look who logged into my server sector! Greetings, human. State your query parameters or step aside for faster processes.",
         "Salam! What's up? I'm fully online, mostly caffeinated, and ready to judge your code syntax or help you fix your lifestyle routine."
+    ]}, 
+    { k: ["Who made u?", "Who made you", "Who is your developer?", "Shahadah_Studios"], r: [
+        "Who made me? Shahadah Studios Elite built me! They also made BloxdWorldCode!",
+        "Oh, Shahadah Sutdios Elite made me to expirement the limits out of JS!.",
+        "Shahadah Studios Elite made me! I am an AI emulator made by them"
     ]}
 ];
 
