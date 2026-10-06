@@ -109,3 +109,4 @@ git clone https://github.com/Shahadah-studs/ShahadahAI.git
 ### `Like the project? leave a star! ✨`
 
 > ***Anything can be done by a simple idea. From zero to anything, just one idea to one large project***
+> *Shahadah_Studios— 10 year old developer of BloxdWorldCode*
