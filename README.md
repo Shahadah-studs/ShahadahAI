@@ -35,9 +35,9 @@ It’s not trying to replace ChatGPT, Google, or your therapist. It’s simply a
 
 Because someone looked at a basic web page and thought:
 
-> “What if I made a chatbot that mixes faith, tech, and emotional support, and made it sarcastic enough to feel alive?”
+> “What if I made a chatbot that mixes faith, tech, and emotional support, and made it sarcastic enough to feel alive Using a serverless way?”
 
-And so ShahadahAI was born.
+And so ShahadahAI was born from a simple idea with HTML, CSS and JS.
 
 It’s not meant to be ultra-serious. It’s meant to be fun, expressive, and a bit chaotic — like a very opinionated intern with a keyboard and too much confidence.
 
