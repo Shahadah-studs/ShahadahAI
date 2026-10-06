@@ -7,7 +7,7 @@ const db = [
     ]},
     { k: ["shahadah", "chahada", "faith"], r: [
         "Ah, the Shahadah! It's the ultimate cosmic validation packet. It states: 'La ilaha illa Allah, Muhammadur Rasool Allah.' Translation: I bear witness that there is no god worthy of worship except God (Allah), and Muhammad is the final Messenger of God. It's Pillar #1 in \n Islam!",
-        "Look, think of the Shahadah as the main root access key to Islam. It's you clearing out your spiritual database of all false idols and saying: 'I bear witness there is no god worthy of worship except Allah, And Muhammad (SAW) is the final messenger of Allah.' Without this configuration file, nothing else boots up.",
+        "Look, think of the Shahadah as the main root access key to Islam. It's you clearing out your spiritual self of all false gods and saying: 'I bear witness there is no god worthy of worship except Allah, And Muhammad (SAW) is the final messenger of Allah.' You need the Shahadah to be a Muslim.",
         "Let's break down the system specs: Shahadah is your verbal key to islam. It states: 'La ilaha illa Allah, Muhammadur Rasool Allah.'. "
     ]},
     { k: ["pillar", "pillars", "islam pillars"], r: [
