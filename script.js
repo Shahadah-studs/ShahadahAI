@@ -52,12 +52,8 @@ const db = [
         "Wa Alaykum As-Salam! System initialized. What kind of cosmic data extraction are we running today? Faith, code, or existential crises?",
         "Oh, look who logged into my server sector! Greetings, human. State your query parameters or step aside for faster processes.",
         "Salam! What's up? I'm fully online, mostly caffeinated, and ready to judge your code syntax or help you fix your lifestyle routine."
-    ]}, 
-    { k: ["Who made u?", "Who made you", "Who is your developer?", "Shahadah_Studios"], r: [
-        "Who made me? Shahadah Studios Elite built me! They also made BloxdWorldCode!",
-        "Oh, Shahadah Sutdios Elite made me to expirement the limits out of JS!.",
-        "Shahadah Studios Elite made me! I am an AI emulator made by them"
-    ]}
+    ]} 
+    
 ];
 
 const fb = [
