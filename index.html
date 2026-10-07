@@ -89,10 +89,12 @@ body { background: #05050a; display: flex; justify-content: center; align-items:
 }
 
 /* Main Content */
-.box { width: 500px; height: 700px; max-height: 90vh; background: rgba(20, 20, 35, .7); backdrop-filter: blur(12px); border-radius: 24px; box-shadow: 0 0 30px rgba(0,255,204,.15); display: flex; flex-direction: column; }
+.box { width: 500px; height: 700px; max-height: 90vh; background: rgba(20, 20, 35, .7); backdrop-filter: blur(12px); border-radius: 24px; box-shadow: 0 0 30px rgba(0,255,204,.15); display: flex; flex-direction: column; overflow: hidden; }
 .hdr { background: linear-gradient(135deg, #121225, #1a1a36); padding: 20px; text-align: center; border-bottom: 2px solid #ff0080; flex-shrink: 0; }
 .hdr h2 { color: #00ffcc; text-shadow: 0 0 12px rgba(0,255,204,.6); font-size: 1.6rem; letter-spacing: 1px; }
 .hdr p { color: #ff0080; font-size: .8rem; font-weight: bold; margin-top: 4px; }
+.badge-wrap { margin-top: 12px; display: flex; justify-content: center; }
+.badge-wrap img { display: block; border-radius: 8px; box-shadow: 0 0 12px rgba(255, 255, 255, 0.15); }
 .body { flex: 1; padding: 20px; overflow-y: auto; display: flex; flex-direction: column; gap: 14px; background: radial-gradient(circle at 50% 30%, #111126, #05050b); height: calc(100% - 130px); }
 .body::-webkit-scrollbar { width: 5px; }
 .body::-webkit-scrollbar-thumb { background: linear-gradient(#ff0080, #00ffcc); border-radius: 3px; }
@@ -120,7 +122,13 @@ body { background: #05050a; display: flex; justify-content: center; align-items:
     </div>
 
     <div class="box">
-        <div class="hdr"><h2>SHAHADAH AI 0.1L</h2><p>An AI chatbot Emulator</p></div>
+        <div class="hdr">
+            <h2>SHAHADAH AI 0.1L</h2>
+            <p>An AI chatbot Emulator</p>
+            <div class="badge-wrap">
+                <img src="https://img.shields.io/github/stars/Shahadah-studs/ShahadahAI" alt="GitHub stars" />
+            </div>
+        </div>
         <div class="body" id="out">
             <div class="msg bot">Oh, look who decided to launch my script! Ask me about Islam, coding bugs, real-life drama, or existential dread. Try asking the same thing twice—I dare you.</div>
         </div>
