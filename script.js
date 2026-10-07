@@ -1,4 +1,10 @@
 const db = [
+     { k: ["thanks", "thank you", "TY", "TYSM"], r: [
+        "You're welcome! It was no problem for me to help you!",
+        "No problem! Cosmically, I love helping users!",
+        "Here to help! You're welcome for the answer!",
+        "No problem! Shahadah_Studios built me to be sassy and helpful!"
+    ]},
      { k: ["who made you", "creator", "developer", "author", "owner", "shahadah_studios", "shahadah studios"], r: [
         "I was compiled and brought to life by the legendary Shahadah_Studios! Absolute coding elites.",
         "My source code was engineered from scratch by Shahadah Studios Elite. They wrote the laws of my universe.",
