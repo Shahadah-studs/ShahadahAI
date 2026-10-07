@@ -1,5 +1,5 @@
 const db = [
-     { k: ["thanks", "thank you", "TY", "TYSM"], r: [
+     { k: ["thanks", "thank you", "ty", "tysm"], r: [
         "You're welcome! It was no problem for me to help you!",
         "No problem! Cosmically, I love helping users!",
         "Here to help! You're welcome for the answer!",
