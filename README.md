@@ -3,7 +3,7 @@
 
 🌐 Website : <a href="https://shahadahai.stormkit.dev/" target="_blank" >ShahadahAI.stormkit.dev</a> 
 
-**Current Version : 0.1L - 0.1 Limited**
+> **Current Version : 0.1L - 0.1 Limited**
 
 An "AI" chatbot with a dramatic personality, a niche sense of humor, and enough confidence to answer questions about faith, coding, life, and stress like it has a *"PhD"* in all of the above.
 
