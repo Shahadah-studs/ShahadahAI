@@ -114,5 +114,5 @@ git clone https://github.com/Shahadah-studs/ShahadahAI.git
 > ***Anything can be done by a simple idea. From zero to anything, just one idea to one large project***
 > *Shahadah_Studios— 10 year old developer of BloxdWorldCode*
 
-
+> [!WARNING]
 > *I made it such a way so you guys dont cheat in your math with this chatbot emulator! 🙄*
