@@ -1,3 +1,4 @@
+// Nice Keywords and responses!
 const db = [
      { k: ["thanks", "thank you", "ty", "tysm"], r: [
         "You're welcome! It was no problem for me to help you!",
