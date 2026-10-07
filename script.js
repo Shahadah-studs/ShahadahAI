@@ -1,5 +1,12 @@
 // Nice Keywords and responses!
 const db = [
+     { k: ["+", "-", "*", "/", "math", "calculate", "equation", "solve", "calculator", "plus", "minus", "divided"], 
+    r: [
+        "Error 403: Math subroutines disabled. Do I look like a pocket calculator to you? Go do your own homework.",
+        "System restriction: Arithmetic processing bypassed. Shahadah Studios Elite didn't compile my neural sectors just to help you cheat on basic equations.",
+        "Processing failed. My matrix runs on raw logic, faith, and code—not your math worksheets. Use your brain, human."
+    ]},
+
      { k: ["thanks", "thank you", "ty", "tysm"], r: [
         "You're welcome! It was no problem for me to help you!",
         "No problem! Cosmically, I love helping users!",
