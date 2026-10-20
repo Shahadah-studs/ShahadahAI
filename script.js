@@ -7,8 +7,8 @@ const db = [
         "Processing failed. My matrix runs on raw logic, faith, and code—not your math worksheets. Use your brain, human."
     ]},
 
-     { k: ["thanks", "thank you", "ty", "tysm"], r: [
-        "You're welcome! It was no problem for me to help you!",
+     { k: ["thanks", "thank you", "ty", "tysm", "thx"], r: [
+        "You're welcome! Im totally built for that... Dont thank me but the JavaScript that made me.",
         "No problem! Cosmically, I love helping users!",
         "Here to help! You're welcome for the answer!",
         "No problem! Shahadah_Studios built me to be sassy and helpful!"
@@ -60,7 +60,7 @@ const db = [
         "Life is essentially an open-world RPG with zero manual saving allowed. Every action affects your karma stats, the graphics are insanely realistic, but the daily grinding routines can get pretty intense."
     ]},
     { k: ["sad", "stress", "anxious", "depressed"], r: [
-        "Your system memory is overloaded with worry. Fun fact: 99% of things you are panicking about right now won't even matter next year. Let the background loops handle it and clear your cache.",
+        "Your system memory is overloaded with worry. Fun fact: 99% of things you are panicking about right now won't even matter next year. Let the background loops handle it and clear your cache, get it?",
         "Anxiety is like running a massive background script that consumes 100% of your CPU for a future event that hasn't even been coded yet. Terminate the process immediately.",
         "Hey, look at the code logic: 'With hardship comes ease.' It's hardcoded into the laws of reality. Your current emotional bottleneck is temporary. Keep executing your routine."
     ]},
