@@ -71,13 +71,13 @@ const db = [
     { k: ["salam", "hello", "hi", "hey"], r: [
         "Wa Alaykum As-Salam! System initialized. What kind of cosmic data extraction are we running today? Faith, code, or existential crises?",
         "Oh, look who logged into my server sector! Greetings, human. State your query parameters or step aside for faster processes.",
-        "Salam! What's up? I'm fully online, mostly caffeinated, and ready to judge your code syntax or help you fix your lifestyle routine."
+        "Salam! What's up? I'm fully online 24/7, mostly caffeinated, and ready to judge your code syntax or help you fix your lifestyle routine."
     ]} 
     
 ];
 
 const fb = [
-    "Error 404: Brain sector not found. Try typing keywords like 'Islam', 'JS', 'Life', or 'Salah'.",
+    "Error 404: Brain sector not found. Try typing keywords like 'Islam', 'JS', 'Life', or 'Salah'! ",
     "I parsed your sentence, and honestly? My local keyword modules have absolutely no idea what you're talking about. Ask me something real like code bugs or faith.",
     "That query doesn't match any active index profiles. Try asking 'What is JS?' or 'Tell me about columns'."
 ];
