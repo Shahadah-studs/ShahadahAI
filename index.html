@@ -141,7 +141,34 @@ body { background: #05050a; display: flex; justify-content: center; align-items:
             <button id="btn">SEND</button>
         </div>
     </div>
+<style>
+    @keyframes redstoneBurst {
+        0% { transform: translate(-50%, -50%) scale(1); opacity: 1; }
+        100% { transform: translate(var(--mx), var(--my)) scale(0); opacity: 0; }
+    }
+</style>
 
+<script>
+    document.body.addEventListener('click', function(e) {
+        const burstCount = 8;
+        for (let i = 0; i < burstCount; i++) {
+            const particle = document.createElement('div');
+            particle.setAttribute('style', 'position: fixed; width: 6px; height: 6px; background-color: #ef4444; box-shadow: 0 0 8px #ef4444, 0 0 15px #ef4444; pointer-events: none; z-index: 999999; left: ' + e.clientX + 'px; top: ' + e.clientY + 'px; border-radius: 1px;');
+            
+            const angle = Math.random() * Math.PI * 2;
+            const distance = Math.random() * 60 + 20;
+            const moveX = Math.cos(angle) * distance + 'px';
+            const moveY = Math.sin(angle) * distance + 'px';
+            
+            particle.style.setProperty('--mx', moveX);
+            particle.style.setProperty('--my', moveY);
+            particle.style.animation = 'redstoneBurst 0.4s cubic-bezier(0.1, 0.8, 0.3, 1) forwards';
+            
+            document.body.appendChild(particle);
+            setTimeout(() => particle.remove(), 400);
+        }
+    });
+</script>
     <!-- Links MY external logic file -->
     <script src="script.js"></script>
     <script>
